@@ -18,20 +18,20 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Preface
 1 Introduction to SaaS and Agile Development
   [x] 1.1 Introduction
-  [ ] 1.2 Software Development Processes: Plan and Document
-  [ ] 1.3 Software Development Processes: The Agile Manifesto
-  [ ] 1.4 Service Oriented Architecture
-  [ ] 1.5 Software as a Service
-  [ ] 1.6 Cloud Computing
-  [ ] 1.7 Beautiful vs. Legacy Code
-  [ ] 1.8 Software Quality Assurance: Testing
-  [ ] 1.9 Productivity: Conciseness, Synthesis, Reuse, and Tools
-  [ ] 1.10 Guided Tour of the Book
-  [ ] 1.11 How NOT to Read This Book
-  [ ] 1.12 Fallacies and Pitfalls
-  [ ] 1.13 Engineering Software is More Than Programming
-  [ ] 1.14 To Learn More
-  [ ] 1.15 Suggested Projects
+  [x] 1.2 Software Development Processes: Plan and Document
+  [x] 1.3 Software Development Processes: The Agile Manifesto
+  [x] 1.4 Service Oriented Architecture
+  [x] 1.5 Software as a Service
+  [x] 1.6 Cloud Computing
+  [x] 1.7 Beautiful vs. Legacy Code
+  [x] 1.8 Software Quality Assurance: Testing
+  [x] 1.9 Productivity: Conciseness, Synthesis, Reuse, and Tools
+  [x] 1.10 Guided Tour of the Book
+  [x] 1.11 How NOT to Read This Book
+  [x] 1.12 Fallacies and Pitfalls
+  [x] 1.13 Engineering Software is More Than Programming
+  [x] 1.14 To Learn More
+  [x] 1.15 Suggested Projects
  2 The Architecture of SaaS Applications
   [ ] 2.1 100,000 Feet: Client-Server Architecture
   [ ] 2.2 50,000 Feet: Communication---HTTP and URIs
