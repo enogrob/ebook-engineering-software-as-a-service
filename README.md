@@ -33,7 +33,7 @@ Learn everything you need to about the subject of this `eBook` project.
   [x] 1.14 To Learn More
   [x] 1.15 Suggested Projects
  2 The Architecture of SaaS Applications
-  [ ] 2.1 100,000 Feet: Client-Server Architecture
+  [x] 2.1 100,000 Feet: Client-Server Architecture
   [ ] 2.2 50,000 Feet: Communication---HTTP and URIs
   [ ] 2.3 10,000 Feet: Representation---HTML and CSS
   [ ] 2.4 5,000 Feet: 3-Tier Architecture & Horizontal Scaling
