@@ -34,7 +34,7 @@ Learn everything you need to about the subject of this `eBook` project.
   [x] 1.15 Suggested Projects
  2 The Architecture of SaaS Applications
   [x] 2.1 100,000 Feet: Client-Server Architecture
-  [ ] 2.2 50,000 Feet: Communication---HTTP and URIs
+  [x] 2.2 50,000 Feet: Communication---HTTP and URIs
   [ ] 2.3 10,000 Feet: Representation---HTML and CSS
   [ ] 2.4 5,000 Feet: 3-Tier Architecture & Horizontal Scaling
   [ ] 2.5 1,000 Feet: Model-View-Controller Architecture
@@ -42,8 +42,8 @@ Learn everything you need to about the subject of this `eBook` project.
   [ ] 2.7 500 Feet: Routes, Controllers, and REST
   [ ] 2.8 500 Feet: Template Views
   [ ] 2.9 Fallacies and Pitfalls
-  [ ] 2.10 Concluding Remarks: Patterns, Architecture, and Long-Lived APIs
-  [ ] 2.11 To Learn More
+  [x] 2.10 Concluding Remarks: Patterns, Architecture, and Long-Lived APIs
+  [x] 2.11 To Learn More
   [ ] 2.12 Suggested Projects
  3 SaaS Framework: Introduction to Ruby
   [ ] 3.1 Overview and Three Pillars of Ruby
